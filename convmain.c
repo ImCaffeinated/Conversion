@@ -13,7 +13,7 @@ int main(){
     double feet;
     
 
-    printf("Enter meters here: \n");
+    printf("Enter meters here: ");
     scanf("%d", &meters);
     
     yards = metersYards(meters);

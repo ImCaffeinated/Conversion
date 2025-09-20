@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Coleb\\Documents\\GitHub\\Conversion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA10289-4274-0AC9-8520-46D59473DB01}|conversion.vcxproj|C:\\Users\\Coleb\\Documents\\GitHub\\Conversion\\convmain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DA10289-4274-0AC9-8520-46D59473DB01}|conversion.vcxproj|solutionrelative:convmain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "convmain.c",
+              "DocumentMoniker": "C:\\Users\\Coleb\\Documents\\GitHub\\Conversion\\convmain.c",
+              "RelativeDocumentMoniker": "convmain.c",
+              "ToolTip": "C:\\Users\\Coleb\\Documents\\GitHub\\Conversion\\convmain.c",
+              "RelativeToolTip": "convmain.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-20T20:17:37.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
